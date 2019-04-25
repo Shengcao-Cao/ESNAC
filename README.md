@@ -1,4 +1,4 @@
-# Learnable Embedding Space for Efficient Neural Architecture Compression
+# ESNAC: Embedding Space for Neural Architecture Compression
 
 This is the PyTorch implementation of our paper:
 
